@@ -5,7 +5,3 @@
 **bolded Text**
 
 *Inlclined text*
-
-
-
-theme: jekyll-theme-minimal
